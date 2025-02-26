@@ -1,0 +1,9 @@
+#nodemodules
+node_modules/
+#variables de entorno
+.env
+
+*.log
+
+.vscode/
+.idea/
